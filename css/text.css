@@ -1,0 +1,199 @@
+/* ALL COLOR ---------------------------------------------------------*/
+*, p, b, li, th, td {
+  color: #333333;
+  }
+h1 {
+  color: #FF0000;
+  }
+h2 {
+  color: #BF0000;
+  }
+h3, strong {
+  color: #800000;
+  }
+h4 {
+  color: #400000;
+  }
+
+/* ALL HEADER ALIGN --------------------------------------------------*/
+h1, h2, h3, h4 {
+  text-align: center;
+}
+
+/* DEVANAGARI --------------------------------------------------------*/
+
+*[lang="sa"],
+*[lang="sa"] p,
+*[lang="sa"] li,
+*[lang="sa"] td {
+  font-family: 'Laila-Medium', serif;
+  }
+*[lang="sa"] b,
+*[lang="sa"] th,
+*[lang="sa"] h3,
+*[lang="sa"] h4 {
+  font-family: 'Laila-SemiBold', serif;
+  }
+*[lang="sa"] strong,
+*[lang="sa"] h1,
+*[lang="sa"] h2 {
+  font-family: 'Laila-Bold', serif;
+  }
+*[lang="sa"],
+*[lang="sa"] p,
+*[lang="sa"] b,
+*[lang="sa"] li,
+*[lang="sa"] th,
+*[lang="sa"] td,
+*[lang="sa"] h4 {
+  font-size: 30px;
+  }
+*[lang="sa"] h1 {
+  font-size: 48px;
+  }
+*[lang="sa"] h2 {
+  font-size: 42px;
+  }
+*[lang="sa"] h3 {
+  font-size: 36px;
+  }
+*[lang="sa"] {
+  text-align: center;
+  }
+
+/* TRANSLIT --------------------------------------------------------*/
+
+*[lang="tl"],
+*[lang="tl"] p,
+*[lang="tl"] li,
+*[lang="tl"] td {
+  font-family: 'FiraSansCondensed-Italic', serif;
+  }
+*[lang="tl"] b,
+*[lang="tl"] th,
+*[lang="tl"] h3,
+*[lang="tl"] h4 {
+  font-family: 'FiraSansCondensed-MediumItalic', serif;
+  }
+*[lang="tl"] strong,
+*[lang="tl"] h1,
+*[lang="tl"] h2 {
+  font-family: 'FiraSansCondensed-Bold', serif;
+  text-transform: uppercase;
+  }
+*[lang="tl"],
+*[lang="tl"] p,
+*[lang="tl"] b,
+*[lang="tl"] li,
+*[lang="tl"] th,
+*[lang="tl"] td,
+*[lang="tl"] h4 {
+  font-size: 24px;
+  line-height: 36px;
+  }
+*[lang="tl"] h1 {
+  font-size: 42px;
+  }
+*[lang="tl"] h2 {
+  font-size: 36px;
+  }
+*[lang="tl"] h3 {
+  font-size: 30px;
+  }
+*[lang="tl"] {
+  text-align: center;
+  }
+
+/* ПЕРЕВОД --------------------------------------------------------*/
+
+*[lang="tr"],
+*[lang="tr"] p,
+*[lang="tr"] li,
+*[lang="tr"] td {
+  font-family: 'NotoSerif-Regular', serif;
+  }
+*[lang="tr"] b,
+*[lang="tr"] th,
+*[lang="tr"] h3,
+*[lang="tr"] h4 {
+  font-family: 'NotoSerif-Bold', serif;
+  }
+*[lang="tr"] strong,
+*[lang="tr"] h1,
+*[lang="tr"] h2 {
+  font-family: 'NotoSerif-Bold', serif;
+  text-transform: uppercase;
+  }
+*[lang="tr"],
+*[lang="tr"] p,
+*[lang="tr"] b,
+*[lang="tr"] li,
+*[lang="tr"] th,
+*[lang="tr"] td,
+*[lang="tr"] h4 {
+  font-size: 18px;
+  }
+*[lang="tr"] h1 {
+  font-size: 36px;
+  }
+*[lang="tr"] h2 {
+  font-size: 30px;
+  }
+*[lang="tr"] h3 {
+  font-size: 24px;
+  }
+*[lang="tr"] p {
+  margin: 8px 48px;
+  padding: 8px;
+  line-height: 24px;
+  text-indent: 24px;
+  text-align: justify;
+  text-align-last: left;
+  }
+
+/* КОММЕНТАРИИ --------------------------------------------------------*/
+
+*[lang="fn"],
+*[lang="fn"] p,
+*[lang="fn"] li,
+*[lang="fn"] td {
+  font-family: 'NotoSerif-Italic', serif;
+  }
+*[lang="fn"] b,
+*[lang="fn"] th,
+*[lang="fn"] h3,
+*[lang="fn"] h4 {
+  font-family: 'NotoSerif-BoldItalic', serif;
+  }
+*[lang="fn"] strong,
+*[lang="fn"] h1,
+*[lang="fn"] h2 {
+  font-family: 'NotoSerif-BoldItalic', serif;
+  text-transform: uppercase;
+  }
+*[lang="fn"],
+*[lang="fn"] p,
+*[lang="fn"] b,
+*[lang="fn"] li,
+*[lang="fn"] th,
+*[lang="fn"] td,
+*[lang="fn"] h4 {
+  font-size: 18px;
+  }
+*[lang="fn"] h1 {
+  font-size: 36px;
+  }
+*[lang="fn"] h2 {
+  font-size: 30px;
+  }
+*[lang="fn"] h3 {
+  font-size: 24px;
+  }
+*[lang="fn"] p {
+  margin: 8px 48px;
+  padding: 8px;
+  line-height: 24px;
+  text-indent: 24px;
+  text-align: justify;
+  text-align-last: left;
+  }

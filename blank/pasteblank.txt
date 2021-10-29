@@ -1,0 +1,17 @@
+<pre lang="tl">
+<h1>.. STOTRA ..</h1><p>
+</p></pre>
+
+<div lang="tr">
+<h1>.. STOTRA ..</h1>
+</div>
+
+<div lang="fn">
+<p></p>
+</div>
+
+<div lang="tr">
+<p></p>
+</div>
+
+<hr class="small-line">

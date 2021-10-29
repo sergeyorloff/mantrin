@@ -1,0 +1,100 @@
+@-webkit-keyframes fade-in {  0% { opacity: 0; }  100% { opacity: 1; }  }
+@-moz-keyframes  fade-in {  0% { opacity: 0; }  100% { opacity: 1; }  }
+@-ms-keyframes fade-in {  0% { opacity: 0; }  100% { opacity: 1; }  }
+@-o-keyframes fade-in {  0% { opacity: 0; }  100% { opacity: 1; }  }
+@keyframes fade-in {  0% { opacity: 0; }  100% { opacity: 1; }  }
+#frame {
+  border: 1.618rem solid #00000000;
+  margin: auto;
+  margin-top: 3.29rem;
+  padding: auto;
+  -webkit-border-image: url("../img/page.png") 34 34 34 34 repeat;
+  -moz-border-image: url("../img/page.png") 34 34 34 34 repeat;
+  -ms-border-image: url("../img/page.png") 34 34 34 34 repeat;
+  -o-border-image: url("../img/page.png") 34 34 34 34 repeat;
+  border-image: url("../img/page.png") 34 34 34 34 repeat;
+}
+html, body {
+  cursor: url("../img/pointer.cur"), default;
+  min-height: 100%;
+  width: 100%;
+  margin: 0;
+  }
+html {
+  max-width:49.2em;
+  margin-left: auto;
+  margin-right: auto;
+  overflow: auto;
+  background: url('../img/pattern.jpg');
+  background-position: top left;
+  background-repeat: repeat;
+  background-attachment: fixed;
+  scroll-behavior: smooth;
+  overscroll-behavior: contain;
+  -webkit-overflow-scrolling: touch;
+  }
+body {
+  background-color: #FFFFFFBF;
+  -webkit-animation: fade-in 1.618s ease-in-out;
+  -moz-animation: fade-in 1.618s ease-in-out;
+  -ms-animation: fade-in 1.618s ease-in-out;
+  -o-animation: fade-in 1.618s ease-in-out;
+  animation: fade-in 1.618s ease-in-out;
+  }
+a {
+  cursor: url("../img/link.cur"), pointer;
+  text-align: justify;
+  text-decoration: none;
+  background-color: transparent;
+  color: #000;
+  text-shadow: 1px 1px 1px #40404040, 0 0 2px #40404040;
+  -webkit-transition: .3s ease-in-out;
+  -moz-transition: .3s ease-in-out;
+  -ms-transition: .3s ease-in-out;
+  -o-transition: .3s ease-in-out;
+  transition: .3s ease-in-out;
+  }
+a:hover {
+  color: #F00;
+  text-shadow: 1px 1px 1px #40000040, 0 0 1px #40000040;
+  -webkit-transition: .3s ease-in-out;
+  -moz-transition: .3s ease-in-out;
+  -ms-transition: .3s ease-in-out;
+  -o-transition: .3s ease-in-out;
+  transition: .3s ease-in-out;
+  }
+hr.big-line {
+  border: 0;
+  height: 3px;
+  margin: 0 10%;
+  background-image: linear-gradient(to right, #00000000, #40404080, #00000000);
+  }
+hr.mid-line {
+  border: 0;
+  height: 2px;
+  margin: 0 20%;
+  background-image: linear-gradient(to right, #00000000, #40404080, #00000000);
+  }
+hr.small-line {
+  border: 0;
+  height: 1px;
+  margin: 0 30%;
+  background-image: linear-gradient(to right, #00000000, #40404080, #00000000);
+  }
+.image {
+  display: block;
+  width: 33.333%;
+  height: auto;
+  margin: 0 auto;
+  padding: 0;
+  }
+.border {
+  outline: .1em solid #333;
+  border: .2em solid #fff;
+  }
+.padding-x {
+  margin: 0 4em;
+  }
+.padding-y {
+  padding: 1em 0;
+  }

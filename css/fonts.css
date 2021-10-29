@@ -1,0 +1,138 @@
+/* NotoSerif ---------------------------------------------------------*/
+
+@font-face {
+  font-family: "NotoSerif-Regular";
+  src: local("NotoSerif-Regular"),
+    url("../fonts/NotoSerif-Regular.eot");
+  src: url("../fonts/NotoSerif-Regular.eot?#iefix") format("embedded-opentype"),
+    url("../fonts/NotoSerif-Regular.otf") format("opentype"),
+    url("../fonts/NotoSerif-Regular.svg") format("svg"),
+    url("../fonts/NotoSerif-Regular.ttf") format("truetype"), /* Safari, Android, iOS */
+    url("../fonts/NotoSerif-Regular.woff") format("woff"),
+    url("../fonts/NotoSerif-Regular.woff2") format("woff2");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "NotoSerif-Italic";
+  src: local("NotoSerif-Italic"),
+    url("../fonts/NotoSerif-Italic.eot");
+  src: url("../fonts/NotoSerif-Italic.eot?#iefix") format("embedded-opentype"),
+    url("../fonts/NotoSerif-Italic.otf") format("opentype"),
+    url("../fonts/NotoSerif-Italic.svg") format("svg"),
+    url("../fonts/NotoSerif-Italic.ttf") format("truetype"), /* Safari, Android, iOS */
+    url("../fonts/NotoSerif-Italic.woff") format("woff"),
+    url("../fonts/NotoSerif-Italic.woff2") format("woff2");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "NotoSerif-Bold";
+  src: local("NotoSerif-Bold"),
+    url("../fonts/NotoSerif-Bold.eot");
+  src: url("../fonts/NotoSerif-Bold.eot?#iefix") format("embedded-opentype"),
+    url("../fonts/NotoSerif-Bold.otf") format("opentype"),
+    url("../fonts/NotoSerif-Bold.svg") format("svg"),
+    url("../fonts/NotoSerif-Bold.ttf") format("truetype"), /* Safari, Android, iOS */
+    url("../fonts/NotoSerif-Bold.woff") format("woff"),
+    url("../fonts/NotoSerif-Bold.woff2") format("woff2");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "NotoSerif-BoldItalic";
+  src: local("NotoSerif-BoldItalic"),
+    url("../fonts/NotoSerif-BoldItalic.eot");
+  src: url("../fonts/NotoSerif-BoldItalic.eot?#iefix") format("embedded-opentype"),
+    url("../fonts/NotoSerif-BoldItalic.otf") format("opentype"),
+    url("../fonts/NotoSerif-BoldItalic.svg") format("svg"),
+    url("../fonts/NotoSerif-BoldItalic.ttf") format("truetype"), /* Safari, Android, iOS */
+    url("../fonts/NotoSerif-BoldItalic.woff") format("woff"),
+    url("../fonts/NotoSerif-BoldItalic.woff2") format("woff2");
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* FiraSansCondensed -------------------------------------------------*/
+
+@font-face {
+  font-family: "FiraSansCondensed-Italic";
+  src: local("FiraSansCondensed-Italic"),
+    url("../fonts/FiraSansCondensed-Italic.eot");
+  src: url("../fonts/FiraSansCondensed-Italic.eot?#iefix") format("embedded-opentype"),
+    url("../fonts/FiraSansCondensed-Italic.otf") format("opentype"),
+    url("../fonts/FiraSansCondensed-Italic.svg") format("svg"),
+    url("../fonts/FiraSansCondensed-Italic.ttf") format("truetype"), /* Safari, Android, iOS */
+    url("../fonts/FiraSansCondensed-Italic.woff") format("woff"),
+    url("../fonts/FiraSansCondensed-Italic.woff2") format("woff2");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "FiraSansCondensed-MediumItalic";
+  src: local("FiraSansCondensed-MediumItalic"),
+    url("../fonts/FiraSansCondensed-MediumItalic.eot");
+  src: url("../fonts/FiraSansCondensed-MediumItalic.eot?#iefix") format("embedded-opentype"),
+    url("../fonts/FiraSansCondensed-MediumItalic.otf") format("opentype"),
+    url("../fonts/FiraSansCondensed-MediumItalic.svg") format("svg"),
+    url("../fonts/FiraSansCondensed-MediumItalic.ttf") format("truetype"), /* Safari, Android, iOS */
+    url("../fonts/FiraSansCondensed-MediumItalic.woff") format("woff"),
+    url("../fonts/FiraSansCondensed-MediumItalic.woff2") format("woff2");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "FiraSansCondensed-Bold";
+  src: local("FiraSansCondensed-Bold"),
+    url("../fonts/FiraSansCondensed-Bold.eot");
+  src: url("../fonts/FiraSansCondensed-Bold.eot?#iefix") format("embedded-opentype"),
+    url("../fonts/FiraSansCondensed-Bold.otf") format("opentype"),
+    url("../fonts/FiraSansCondensed-Bold.svg") format("svg"),
+    url("../fonts/FiraSansCondensed-Bold.ttf") format("truetype"), /* Safari, Android, iOS */
+    url("../fonts/FiraSansCondensed-Bold.woff") format("woff"),
+    url("../fonts/FiraSansCondensed-Bold.woff2") format("woff2");
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* Laila-Regular -----------------------------------------------*/
+
+@font-face {
+  font-family: "Laila-Medium";
+  src: local("Laila-Medium"),
+    url("../fonts/Laila-Medium.eot");
+  src: url("../fonts/Laila-Medium.eot?#iefix") format("embedded-opentype"),
+    url("../fonts/Laila-Medium.otf") format("opentype"),
+    url("../fonts/Laila-Medium.svg") format("svg"),
+    url("../fonts/Laila-Medium.ttf") format("truetype"), /* Safari, Android, iOS */
+    url("../fonts/Laila-Medium.woff") format("woff"),
+    url("../fonts/Laila-Medium.woff2") format("woff2");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Laila-SemiBold";
+  src: local("Laila-SemiBold"),
+    url("../fonts/Laila-SemiBold.eot");
+  src: url("../fonts/Laila-SemiBold.eot?#iefix") format("embedded-opentype"),
+    url("../fonts/Laila-SemiBold.otf") format("opentype"),
+    url("../fonts/Laila-SemiBold.svg") format("svg"),
+    url("../fonts/Laila-SemiBold.ttf") format("truetype"), /* Safari, Android, iOS */
+    url("../fonts/Laila-SemiBold.woff") format("woff"),
+    url("../fonts/Laila-SemiBold.woff2") format("woff2");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Laila-Bold";
+  src: local("Laila-Bold"),
+    url("../fonts/Laila-Bold.eot");
+  src: url("../fonts/Laila-Bold.eot?#iefix") format("embedded-opentype"),
+    url("../fonts/Laila-Bold.otf") format("opentype"),
+    url("../fonts/Laila-Bold.svg") format("svg"),
+    url("../fonts/Laila-Bold.ttf") format("truetype"), /* Safari, Android, iOS */
+    url("../fonts/Laila-Bold.woff") format("woff"),
+    url("../fonts/Laila-Bold.woff2") format("woff2");
+  font-weight: normal;
+  font-style: normal;
+}
