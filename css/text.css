@@ -131,22 +131,22 @@ h1, h2, h3, h4 {
 *[lang="tr"] th,
 *[lang="tr"] td,
 *[lang="tr"] h4 {
-  font-size: 18px;
+  font-size: 21px;
   }
 *[lang="tr"] h1 {
-  font-size: 36px;
+  font-size: 39px;
   }
 *[lang="tr"] h2 {
-  font-size: 30px;
+  font-size: 33px;
   }
 *[lang="tr"] h3 {
-  font-size: 24px;
+  font-size: 27px;
   }
 *[lang="tr"] p {
   margin: 8px 48px;
   padding: 8px;
-  line-height: 24px;
-  text-indent: 24px;
+  line-height: 33px;
+  text-indent: 33px;
   text-align: justify;
   text-align-last: left;
   }
